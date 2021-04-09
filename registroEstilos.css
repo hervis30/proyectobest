@@ -1,0 +1,38 @@
+h1{
+    font-size:32px;
+    color:black; 
+    text-align:center;
+    font-weight:bold; 
+    font-family: 'Merienda', cursive;
+}
+body{
+    background-color:white;
+}
+nav{
+    font-size:22px;
+    color:black; 
+    text-align: center; 
+    font-weight:bold; 
+    font-family: 'Merienda', cursive;
+}
+form{
+    font-size:22px;
+    color:black; 
+    text-align: center; 
+    font-weight:bold; 
+    font-family: 'Merienda', cursive;
+}
+.aceptaTerminos{
+    font-size:16px;
+    color:black; 
+    text-align: center; 
+    font-weight:bold; 
+    font-family: 'Merienda', cursive;
+}
+footer{
+    font-size:18px;
+    color:blue;
+    text-align:center;
+    font-weight:bold; 
+    font-family: 'Cedarville Cursive', cursive;
+}

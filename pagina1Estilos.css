@@ -1,0 +1,43 @@
+h1{
+    font-size:32px;
+    color:black; 
+    font-weight:bold; 
+    text-align:center;
+    font-family: 'Merienda', cursive;
+}
+nav{
+    font-size:22px;
+    color:black; 
+    text-align: center; 
+    font-weight:bold; 
+    font-family: 'Merienda', cursive;
+}
+h2{
+    font-size:26px;
+    color:black; 
+    text-align: center; 
+    font-weight:bold; 
+    font-family: 'Merienda', cursive;
+}
+h3{
+    font-size:26px;
+    color:black; 
+    text-align: center; 
+    font-weight:bold; 
+    font-family: 'Merienda', cursive;
+}
+.parrafo{
+    font-size:22px;
+    color:black; 
+    text-align: center; 
+    font-weight:bold; 
+    font-family: 'Merienda', cursive;
+}
+footer{
+    font-size:18px;
+    color:blue; 
+    text-align-last:center; 
+    font-weight:bold; 
+    font-family: 'Cedarville Cursive', cursive;
+}
+
